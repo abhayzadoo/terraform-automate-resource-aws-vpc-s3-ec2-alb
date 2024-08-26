@@ -1,3 +1,6 @@
+<img width="521" alt="Screenshot 2024-08-26 at 3 30 39 PM" src="https://github.com/user-attachments/assets/bd87acea-509a-4cd6-b370-42b33794d674">
+
+
 # terraform-automate-resource-aws-vpc-s3-ec2-alb
 Automated AWS Infrastructure Deployment with Terraform: VPC, EC2, Load Balancer, and S3 Integration
 
